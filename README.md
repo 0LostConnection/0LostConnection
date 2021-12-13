@@ -4,7 +4,7 @@
 
 &nbsp;
 ## 🔍 About me
-My name is Geovane and I'm form Brasília, the capital city of Brazil! Since I was a kid, I've always been interested on computers and games. At ten years old I created my first program in `Batch Script`, I don't remember what the program did, but It doesn't matter. Currently I'm focused in learning Javascript and making Discord bots.
+My name is Geovane and I'm from Brasília, the capital city of Brazil! Since I was a kid, I've always been interested on computers and games. At ten years old I created my first program in `Batch Script`, I don't remember what the program did, but It doesn't matter. Currently I'm focused in learning Javascript and making Discord bots.
 
 &nbsp;
 ## <img src="https://imgur.com/9wQPUcG.png" width="25" height="25" /> Discord 
