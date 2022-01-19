@@ -12,8 +12,7 @@ Meu nome é Geovane e sou de Brasília, a capital do Brasil! Desde criança, sem
 
 &nbsp;
 ## 🖥 Github
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=0LostConnection&show_icons=true&theme=dark&bg_color=0D1117)
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0LostConnection&layout=compact&theme=dark&card_width=445&bg_color=0D1117) --->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0LostConnection&show_icons=true&theme=midnight-purple&bg_color=0D1117) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0LostConnection&layout=compact&theme=midnight-purple&bg_color=0D1117)
 
 <!--- <div style="display: inline_block"><br>
   <img align="center" alt="Lost-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
