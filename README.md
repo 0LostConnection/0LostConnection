@@ -1,6 +1,6 @@
 # 👋 Olá! Sou o Geovane, AKA Lost 
 <div> 
-  <a href="https://discord.gg/zuy28NhxY9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://lost-redirect.vercel.app/?copy=LostConnection%234460&alertText=Meu%20nome%20de%20usu%C3%A1rio%20foi%20copiado%20para%20sua%20%C3%A1rea%20de%20transfer%C3%AAncia!" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:geovane.saraiva.silva75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
