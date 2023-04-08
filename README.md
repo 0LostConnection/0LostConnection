@@ -1,14 +1,14 @@
-# 👋 Olá! Sou o Geovane, AKA Lost 
+# 👋 Hi! I'm Geovane, AKA Lost 
 <div> 
-  <a href="https://lost-redirect.vercel.app/?copy=LostConnection%234460&alertText=Meu%20nome%20de%20usu%C3%A1rio%20foi%20copiado%20para%20sua%20%C3%A1rea%20de%20transfer%C3%AAncia!" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/users/437249534096048130" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:geovane.saraiva.silva75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-## 🔍Sobre mim
-Meu nome é Geovane e sou de Brasília, a capital do Brasil! Desde criança, sempre me interessei por computadores e jogos. Aos dez anos criei meu primeiro programa em `Batch Script`, não lembro o que o programa fazia, mas não importa.
+## 🔍 About Me
+My name is Geovane and I'm from Brasilia, the capital of Brazil! Since I was a child, I've always been interested in computers and games. When I was ten years old, I created my first program in `Batch Script`. I don't remember what the program did, but it doesn't matter.
 
-- 🤖 Atualmente faço bots personalizados para o Discord
-- 📚 Estudando Javascript e Python
+- 🤖 Currently, I create custom bots for Discord
+- 📚 Studying JavaScript
 
 &nbsp;
 ## 🖥 Github
