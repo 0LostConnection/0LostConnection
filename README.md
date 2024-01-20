@@ -8,7 +8,7 @@
 My name is Geovane and I'm from Brasilia, the capital of Brazil! Since I was a child, I've always been interested in computers and games. When I was ten years old, I created my first program in `Batch Script`. I don't remember what the program did, but it doesn't matter.
 
 - 🤖 Currently, I create custom bots for Discord
-- 📚 Studying JavaScript
+- 📚 Studying React and Redux
 
 &nbsp;
 ## 🖥 Github
