@@ -3,8 +3,8 @@
     👋 Hi! I'm Geovane, AKA Lost
   </h3>
   <div align="center">
-    <a href="https://discord.com/users/437249534096048130"><img
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    <a href="https://discord.com/users/437249534096048130">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     </a>
   </div>
 </a>
@@ -13,7 +13,7 @@
 Hi, I'm Geovane and I live in Brasilia, the capital of Brazil! I've loved computers and games ever since I was a
 kid. I wrote my first program in `Batch Script` when I was ten years old. I have no idea what it did, but who cares?
 
-- 👨‍🎓 **Software Engineering** student at the Catholic University of Brasília.
+- 👨‍🎓 **Software Engineering** student at the **Catholic University of Brasília (UCB)**.
 - 📚 Currently studying: **React and Redux**
 
 &nbsp;
