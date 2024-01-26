@@ -19,6 +19,6 @@ My name is Geovane and I'm from Brasilia, the capital of Brazil! Since I was a c
 </div> --->
 
 &nbsp;
-## <img src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" width="25" height="25" />  Discord Status
+## <img src="discord.svg" width="25" height="25" align="center"/>  Discord Status
 <!--- ![Discord Banner](https://discord.c99.nl/widget/theme-1/437249534096048130.png) --->
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=437249534096048130) 
