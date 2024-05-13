@@ -29,5 +29,4 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0LostConne
 
 &nbsp;
 ### <img src="discord.svg" width="20" height="25" align="center" /> My Discord
-<!--- ![Discord Banner](https://discord.c99.nl/widget/theme-1/437249534096048130.png) --->
-![My Discord](https://discord-readme-badge.vercel.app/api?id=437249534096048130)
+[![Discord Presence](https://lanyard.cnrad.dev/api/437249534096048130)](https://discord.com/users/437249534096048130)
