@@ -2,11 +2,11 @@
   <h3 align=center>
     👋 Hi! I'm Geovane, AKA Lost
   </h3>
-  <div align="center">
+  <!--- <div align="center">
     <a href="https://discord.com/users/437249534096048130">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     </a>
-  </div>
+  </div> --->
 </a>
 
 ### 🔍 About Me
