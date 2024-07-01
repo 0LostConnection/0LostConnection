@@ -14,7 +14,7 @@ Hi, I'm Geovane and I live in Brasilia, the capital of Brazil! I've loved comput
 kid. I wrote my first program in `Batch Script` when I was ten years old. I have no idea what it did, but who cares?
 
 - 👨‍🎓 **Software Engineering** student at the **Catholic University of Brasília (UCB)**.
-- 📚 Currently studying: **React and Redux**
+- 📚 Currently studying: **C**
 
 &nbsp;
 ### 🖥 Github Stats
