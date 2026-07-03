@@ -14,7 +14,7 @@
 
 I grew up on computers and games. My first program was a `Batch` script at age ten — no idea what it did, but the itch to build never went away.
 
-These days I'm studying **Software Engineering** at the **Catholic University of Brasília (UCB)**, digging into **C** and systems fundamentals while shipping projects in **TypeScript**, **Rust**, and **Java**.
+These days I'm studying **Software Engineering** at the **Catholic University of Brasília (UCB)**, digging into **C** and systems fundamentals while shipping projects in **TypeScript** and **Java**.
 
 I like tools that feel good to use, games that eat whole weekends, and side projects that start as "this should take an afternoon" and end up as a repo with 40 commits.
 
@@ -38,7 +38,6 @@ I like tools that feel good to use, games that eat whole weekends, and side proj
 ### Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -50,8 +49,8 @@ I like tools that feel good to use, games that eat whole weekends, and side proj
 ### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0LostConnection&show_icons=true&theme=midnight-purple&bg_color=0D1117&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0LostConnection&layout=compact&theme=midnight-purple&bg_color=0D1117&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=0LostConnection&show_icons=true&theme=midnight-purple&bg_color=0D1117&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=0LostConnection&layout=compact&theme=midnight-purple&bg_color=0D1117&hide_border=true" alt="Top languages" height="165" />
 </p>
 
 ---
